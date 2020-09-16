@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tamag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tamag\\.nuget\\packages"
+    ]
+  }
+}
